@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LTHD</string>
+    <string name="actionbar">Ứng dụng đăng ảnh</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="waiting">Đang xử lí...</string>
+    <string name="select">Chọn ảnh</string>
+    <string name="cancel">Hủy</string>
+
+    <string-array name="select_picture">
+        <item name="gallery">Chọn ảnh từ thư viện</item>
+        <item name="camera">Chọn ảnh từ chụp ảnh</item>
+    </string-array>
+
+    <string name="title_activity_authentication">LTHD</string>
+    <string name="app_id">1394467180813933</string>
+    <string name="ok">Đồng ý</string>
+    <string name="conect_to_internet">Bạn cần kết nối internet để thực hiện tiếp.</string>
+    <string name="register">Vui lòng đăng nhập!</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="choose_pic">Vui lòng chọn ảnh để đăng tải!</string>
+    <string name="login">Đăng nhập</string>
+    <string name="no_more">Không còn hình ảnh</string>
+    <string name="check_sure">Bạn có chắc chắn muốn đăng xuất?</string>
+    <string name="error_upload">Rất tiếc, đã xảy ra lỗi trong quá trình tải ảnh. Vui lòng thử vào dịp khác!!!</string>
+    <string name="finished_upload">Bạn đã đăng ảnh thành công. Bạn có thể quay về "Bộ sưu tập" để xem!!!</string>
+    <string name="upload_check_sure">Bạn có chắc chắn muốn tải những bức ảnh này?</string>
+    <string name="title_activity_full_image">Ứng dụng đăng ảnh</string>
+
+</resources>
